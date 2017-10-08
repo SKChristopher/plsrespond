@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/SKChristopher/plsrespond/issues"
   },
-  "homepage": "https://github.com/SKChristopher/plsrespond#readme"
+  "homepage": "https://github.com/SKChristopher/plsrespond#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^3.6.0"
+  }
 }
